@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8A2BE2&height=700&section=header" />
 
-<h1 align="center">I'm Luann</h1>
+<h1 align="center">Luann Curioso</h1>
 <h3 align="center">A passionate Web Developer!</h3>
 
 - 🔭 I’m currently working at [OS Systems](https://github.com/OSSystems)
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luannmcurioso@gmail.com**
 
-- 📄 Know about my experiences [https://luannmoreira.github.io/portfolio/](https://luannmoreira.github.io/portfolio/)
+- 📄 Know about my experiences [Portfolio](https://luannmoreira.github.io/portfolio/)
 
 - ⚡ Fun fact **I love video games =)**
 
