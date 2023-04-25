@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#C9D9CF&height=700&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=_#C9D9CF&height=700&section=header" />
 
 <h1 align="center">Luann Curioso</h1>
 <h3 align="center">A passionate Web Developer!</h3>
